@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm just another guy who codes, nothing special at all
+
+### Works 
+
+Since I'm still a student, I din't did any notable works (I don't have works at all)
+but I plan on soon start doing some projects
+
 <!--
 **Azure-san/Azure-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
