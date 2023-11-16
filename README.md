@@ -2,10 +2,14 @@
 
 I'm just another guy who codes, nothing special at all
 
-### Works 
+### Works 📚
 
-Since I'm still a student, I din't did any notable works (I don't have works at all)
+Since I'm still a student, I din't any notable works (I don't have works at all)
 but I plan on soon start doing some projects
+
+### Learning ✏️
+
+I'm learning the basics for Web Devolopment, but I think I can do some things already
 
 <!--
 **Azure-san/Azure-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
