@@ -4,7 +4,7 @@ I'm just another guy who codes, nothing special at all
 
 ### Works 📚
 
-Since I'm still a student, I din't any notable works (I don't have works at all)
+Since I'm still a student, I still didn't make any notable works (I don't have works at all)
 but I plan on soon start doing some projects
 
 ### Learning ✏️
